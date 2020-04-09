@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79258941-42fb-40c7-9d78-708b3e00b5db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HW08/HW08_JawalkarMayur.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +65,10 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Study Material\Semester 4\Big Data Analytics\PycharmProject\HW08" />
+      <recent name="F:\Study Material\Semester 4\Big Data Analytics\PycharmProject" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Study Material\Semester 4\Big Data Analytics\PycharmProject\HW07" />
       <recent name="F:\Study Material\Semester 4\Big Data Analytics\PycharmProject\HW05" />
@@ -71,33 +76,8 @@
       <recent name="F:\Study Material\Semester 4\Big Data Analytics\PycharmProject\HW02" />
       <recent name="F:\Study Material\Semester 4\Big Data Analytics\PycharmProject\HW0" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Study Material\Semester 4\Big Data Analytics\PycharmProject" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.HW07_Jawalkar_Mayur">
-    <configuration name="HW03_Jawalkar_Mayur_Mentor" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW03/HW03_Jawalkar_Mayur_Mentor.py" />
-      <option name="PARAMETERS" value="Food_Poisoning_Data_v3.csv" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.HW05_Jawalkar_Mayur_Mentor">
     <configuration name="HW05_Jawalkar_Mayur_Mentor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,20 +166,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="HW08_JawalkarMayur" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HW08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW08/HW08_JawalkarMayur.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.HW03_Jawalkar_Mayur_Mentor" />
       <item itemvalue="Python.HW05_Jawalkar_Mayur_Mentor" />
       <item itemvalue="Python.HW05_Jawalkar_Mayur_Trained" />
       <item itemvalue="Python.HW05_Jawalkar_Mayur_Trained_Classifier" />
       <item itemvalue="Python.HW07_Jawalkar_Mayur" />
+      <item itemvalue="Python.HW08_JawalkarMayur" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HW07_Jawalkar_Mayur" />
         <item itemvalue="Python.HW05_Jawalkar_Mayur_Mentor" />
+        <item itemvalue="Python.HW08_JawalkarMayur" />
+        <item itemvalue="Python.HW07_Jawalkar_Mayur" />
         <item itemvalue="Python.HW05_Jawalkar_Mayur_Trained_Classifier" />
         <item itemvalue="Python.HW05_Jawalkar_Mayur_Trained" />
-        <item itemvalue="Python.HW03_Jawalkar_Mayur_Mentor" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +245,9 @@
       <workItem from="1581959120346" duration="1195000" />
       <workItem from="1582239685686" duration="631000" />
       <workItem from="1584299045175" duration="62431000" />
-      <workItem from="1585638484315" duration="56960000" />
+      <workItem from="1585638484315" duration="57093000" />
+      <workItem from="1586224242774" duration="28454000" />
+      <workItem from="1586389986817" duration="975000" />
     </task>
     <task id="LOCAL-00001" summary="Commit HW00 - HW03">
       <created>1581959597434</created>
@@ -266,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585854768063</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit HW07">
+      <created>1585857657937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585857657937</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,14 +317,14 @@
       <screen x="0" y="0" width="1536" height="764" />
     </state>
     <state x="373" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.764@0.0.1536.764" timestamp="1584416431496" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1585857624980">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1585857653251">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.764@0.0.1536.764" timestamp="1585857624980" />
-    <state x="550" y="155" key="FileChooserDialogImpl" timestamp="1581291966988">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.764@0.0.1536.764" timestamp="1585857653251" />
+    <state x="550" y="155" key="FileChooserDialogImpl" timestamp="1585857735178">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
-    <state x="550" y="155" key="FileChooserDialogImpl/0.0.1536.764@0.0.1536.764" timestamp="1581291966988" />
+    <state x="550" y="155" key="FileChooserDialogImpl/0.0.1536.764@0.0.1536.764" timestamp="1585857735178" />
     <state x="606" y="306" width="552" height="212" key="Github.ShareDialog" timestamp="1581915739507">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
@@ -322,22 +333,22 @@
       <screen x="0" y="0" width="1536" height="764" />
     </state>
     <state x="456" y="118" key="Github.UntrackedFilesDialog/0.0.1536.764@0.0.1536.764" timestamp="1581915646474" />
-    <state width="1493" height="184" key="GridCell.Tab.0.bottom" timestamp="1585857630577">
+    <state width="1493" height="98" key="GridCell.Tab.0.bottom" timestamp="1586394888434">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
-    <state width="1493" height="184" key="GridCell.Tab.0.bottom/0.0.1536.764@0.0.1536.764" timestamp="1585857630577" />
-    <state width="1493" height="184" key="GridCell.Tab.0.center" timestamp="1585857630577">
+    <state width="1493" height="98" key="GridCell.Tab.0.bottom/0.0.1536.764@0.0.1536.764" timestamp="1586394888434" />
+    <state width="1493" height="98" key="GridCell.Tab.0.center" timestamp="1586394888433">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
-    <state width="1493" height="184" key="GridCell.Tab.0.center/0.0.1536.764@0.0.1536.764" timestamp="1585857630577" />
-    <state width="1493" height="184" key="GridCell.Tab.0.left" timestamp="1585857630577">
+    <state width="1493" height="98" key="GridCell.Tab.0.center/0.0.1536.764@0.0.1536.764" timestamp="1586394888433" />
+    <state width="1493" height="98" key="GridCell.Tab.0.left" timestamp="1586394888433">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
-    <state width="1493" height="184" key="GridCell.Tab.0.left/0.0.1536.764@0.0.1536.764" timestamp="1585857630577" />
-    <state width="1493" height="184" key="GridCell.Tab.0.right" timestamp="1585857630577">
+    <state width="1493" height="98" key="GridCell.Tab.0.left/0.0.1536.764@0.0.1536.764" timestamp="1586394888433" />
+    <state width="1493" height="98" key="GridCell.Tab.0.right" timestamp="1586394888434">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
-    <state width="1493" height="184" key="GridCell.Tab.0.right/0.0.1536.764@0.0.1536.764" timestamp="1585857630577" />
+    <state width="1493" height="98" key="GridCell.Tab.0.right/0.0.1536.764@0.0.1536.764" timestamp="1586394888434" />
     <state x="279" y="29" key="SettingsEditor" timestamp="1585788415904">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
@@ -346,10 +357,10 @@
       <screen x="0" y="0" width="1536" height="764" />
     </state>
     <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.764@0.0.1536.764" timestamp="1585854773474" />
-    <state x="467" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1584299047543">
+    <state x="467" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1586395180670">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
-    <state x="467" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.764@0.0.1536.764" timestamp="1584299047543" />
+    <state x="467" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.764@0.0.1536.764" timestamp="1586395180670" />
     <state x="530" y="147" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1581915834491">
       <screen x="0" y="0" width="1536" height="764" />
     </state>
@@ -369,8 +380,9 @@
     <SUITE FILE_PATH="coverage/PycharmProject$HW03_Jawalkar_Mayur_Trained.coverage" NAME="HW03_Jawalkar_Mayur_Trained Coverage Results" MODIFIED="1581914918640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW03" />
     <SUITE FILE_PATH="coverage/PycharmProject$HW02_Jawalkar_Mayur_trained.coverage" NAME="HW02_Jawalkar_Mayur_trained Coverage Results" MODIFIED="1581288259471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW02" />
     <SUITE FILE_PATH="coverage/PycharmProject$HW03_Jawalkar_Mayur_Mentor.coverage" NAME="HW03_Jawalkar_Mayur_Mentor Coverage Results" MODIFIED="1581915058617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW03" />
-    <SUITE FILE_PATH="coverage/PycharmProject$HW05_Jawalkar_Mayur_Mentor.coverage" NAME="HW05_Jawalkar_Mayur_Mentor Coverage Results" MODIFIED="1584416506567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW05" />
     <SUITE FILE_PATH="coverage/PycharmProject$HW07_Jawalkar_Mayur.coverage" NAME="HW07_Jawalkar_Mayur Coverage Results" MODIFIED="1585803084936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW07" />
+    <SUITE FILE_PATH="coverage/PycharmProject$HW08_JawalkarMayur.coverage" NAME="HW08_JawalkarMayur Coverage Results" MODIFIED="1586312784030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW08" />
+    <SUITE FILE_PATH="coverage/PycharmProject$HW05_Jawalkar_Mayur_Mentor.coverage" NAME="HW05_Jawalkar_Mayur_Mentor Coverage Results" MODIFIED="1586390063893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW05" />
     <SUITE FILE_PATH="coverage/PycharmProject$HW02_Jawalkar_Mayur_Trained.coverage" NAME="HW02_Jawalkar_Mayur_Trained Coverage Results" MODIFIED="1581288433858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW02" />
     <SUITE FILE_PATH="coverage/PycharmProject$HW01_Jawalkar_Mayur_program.coverage" NAME="HW01_Jawalkar_Mayur_program Coverage Results" MODIFIED="1581278895075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW01" />
   </component>
